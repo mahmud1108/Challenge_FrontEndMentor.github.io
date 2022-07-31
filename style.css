@@ -1,0 +1,33 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  padding-bottom: 15px;
+}
+.attribution a {
+  display: inline-block;
+  text-decoration: none;
+  color: hsl(228, 45%, 44%);
+}
+.container {
+  width: 260px;
+  margin: 50px auto;
+  box-shadow: 1px 1px 20px rgb(179, 179, 179);
+  border-radius: 10px;
+}
+.container img {
+  width: 230px;
+  height: 230px;
+  margin: 15px 15px 10px 15px;
+  border-radius: 10px;
+}
+.container p {
+  padding: 0 15px 0 15px;
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+}
+h3 {
+  font-family: "Outfit", sans-serif;
+  margin: 10px 15px 0 15px;
+  text-align: center;
+  font-weight: 700;
+}
